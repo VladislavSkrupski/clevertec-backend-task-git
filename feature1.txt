@@ -1,3 +1,4 @@
 feat: add some code to feature1
 feat: finish feature1
 fix: bugfix in feature1
+fix: another bugfix in feature1
